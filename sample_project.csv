@@ -1,0 +1,3 @@
+project_name,site_area,gross_floor_area,num_floors,room_type_ratios
+오피스 빌딩,1000,3000,3,"office:0.5,meeting:0.2,corridor:0.15,rest:0.1,storage:0.05"
+주거 아파트,2400,3,"livingroom:0.3,bedroom:0.25,kitchen:0.15,bathroom:0.15,corridor:0.15",
